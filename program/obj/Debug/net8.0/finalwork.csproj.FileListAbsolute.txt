@@ -1,0 +1,14 @@
+C:\Users\Andrey\Desktop\finalwork\bin\Debug\net8.0\finalwork.exe
+C:\Users\Andrey\Desktop\finalwork\bin\Debug\net8.0\finalwork.deps.json
+C:\Users\Andrey\Desktop\finalwork\bin\Debug\net8.0\finalwork.runtimeconfig.json
+C:\Users\Andrey\Desktop\finalwork\bin\Debug\net8.0\finalwork.dll
+C:\Users\Andrey\Desktop\finalwork\bin\Debug\net8.0\finalwork.pdb
+C:\Users\Andrey\Desktop\finalwork\obj\Debug\net8.0\finalwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\Desktop\finalwork\obj\Debug\net8.0\finalwork.AssemblyInfoInputs.cache
+C:\Users\Andrey\Desktop\finalwork\obj\Debug\net8.0\finalwork.AssemblyInfo.cs
+C:\Users\Andrey\Desktop\finalwork\obj\Debug\net8.0\finalwork.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\finalwork\obj\Debug\net8.0\finalwork.dll
+C:\Users\Andrey\Desktop\finalwork\obj\Debug\net8.0\refint\finalwork.dll
+C:\Users\Andrey\Desktop\finalwork\obj\Debug\net8.0\finalwork.pdb
+C:\Users\Andrey\Desktop\finalwork\obj\Debug\net8.0\finalwork.genruntimeconfig.cache
+C:\Users\Andrey\Desktop\finalwork\obj\Debug\net8.0\ref\finalwork.dll
